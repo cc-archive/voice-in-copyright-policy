@@ -7,6 +7,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Tim Vollmer](https://github.com/tvol)  |
-| Approvers  | [Jonathan Tuttle](https://github.com/jtuttle)  |
+| Approvers  | [Ryan Merkley](https://github.com/ryanmerkley)  |
 | Contributors | [Diane Peters](https://github.com/peterspdx) Add yourselves here |
 | Informed | Add yourselves here |
